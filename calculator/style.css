@@ -1,0 +1,35 @@
+.container {
+    padding: 10px;
+    height: 500px;
+    width: 400px;
+    margin: auto;
+    margin-top: 200px;
+    border: solid 1px;
+    border-radius: 5px;
+
+}
+
+.display-box {
+
+    background-color: #dcdbe1;
+    border: solid black 0.5px;
+    color: black;
+    border-radius: 5px;
+    width: 96%;
+    height: 65%;
+}
+
+#btn {
+    background-color: #ee9e98;
+    color: black;
+}
+
+input[type=button] {
+    background-color: #8e92ca;
+    color: black;
+    border: solid black 0.5px;
+    width: 93%;
+    border-radius: 5px;
+    height: 70%;
+
+}
